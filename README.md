@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bornNov11
+- 👀 I’m interested in Web Develop
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me 👉 lsy882692@gmail.com 👈
